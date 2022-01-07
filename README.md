@@ -7,6 +7,6 @@ My profile page is in progress!
 
 [website]: https://jeffbriceaudio.com
 [twitter]: https://twitter.com/jeffbrice
-[youtube]:
-[bandcamp]:
-[medium]: 
+[youtube]: https://www.youtube.com/channel/UCoJCjMAfsfygv-mjNPC5MpQ
+[bandcamp]: https://jeffbrice.bandcamp.com/
+[medium]: https://pumodi.medium.com/
