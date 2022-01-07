@@ -9,4 +9,4 @@ My profile page is in progress!
 [twitter]: https://twitter.com/jeffbrice
 [youtube]:
 [bandcamp]:
-[medium]:
+[medium]: 
